@@ -1,13 +1,13 @@
 <!DOCTYPE HTML>  
 <html>
-<!--- SVC Team 2, Bull-****-a-Thon sanitiation resupply request form, V1.0, Spetember 25th, 2020--->
+<!--- SVC Team 2, Bull-****-a-Thon sanitiation resupply request form, V1.01, Spetember 25th, 2020--->
 <!--- note, this will not work unless there is a php server present, so I will attempt to upload this to the apachee server tomorrow--->
 <head>
 <!-- sam add this--->
 <style>
 
 </style>
-<link rel="icon href="
+<link rel="icon href="pictures/bearcat.png">
 <title>
 Sanitation Resupply Request Form
 </title>
